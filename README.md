@@ -1,40 +1,42 @@
-# Hi, I'm Pratima Gupta 👋
+# 👋 Hi, I'm Pratima Gupta
 
-### Data Analyst | SQL | Power BI | Excel | Python
+### 📊 Data Analyst | SQL | Power BI | Excel | Python
 
-I am an aspiring Data Analyst with a strong interest in transforming raw data into meaningful insights and supporting data-driven business decisions.
-
-I enjoy working with data through analysis, visualization, dashboard development, and statistical techniques. I am also exploring Generative AI and AI prompting to improve data analysis and productivity.
+Turning raw data into meaningful insights, interactive dashboards, and data-driven business decisions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Data Analysis & Visualization
-- SQL
-- Microsoft Excel
-- Power BI
-- Tableau
-- Python
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
+### 📊 Data Analytics & Visualization
 
-### Statistical & Business Analysis
-- Statistical Modeling
-- Business Analysis
-- Trend Analysis
-- KPI Analysis
-- Data-Driven Insights
-- Reporting & Dashboard Development
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Python & Data Libraries
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+**Data Cleaning • EDA • Data Visualization • Dashboard Development**
 
-### AI & Generative AI
+### 🐍 Python & Data Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+
+**Pandas • NumPy • Matplotlib • Seaborn**
+
+### 📈 Business & Statistical Analysis
+
+- 📊 Business Analysis
+- 📈 Trend Analysis
+- 🎯 KPI Analysis
+- 💡 Data-Driven Insights
+- 📋 Reporting & Dashboard Development
+- 📐 Statistical Analysis
+
+### 🤖 AI & Generative AI
+
 - Generative AI Fundamentals
 - AI Prompting
 - Prompt Engineering Basics
@@ -44,25 +46,30 @@ I enjoy working with data through analysis, visualization, dashboard development
 
 ## 📊 Featured Projects
 
-### Blinkit vs Zepto Sales Analysis
-**Tools:** Power BI, Excel
+### 🛒 Mumbai Retail Sales Analysis
+**Tools:** Excel • Power BI
 
-An interactive sales analysis dashboard comparing business performance across products, locations, orders, and sales metrics.
+Retail sales analysis project focused on data cleaning, sales trends, customer insights, KPIs, and interactive business dashboards.
 
-### D-Mart Sales Dashboard
+### 🛵 Blinkit vs Zepto Sales Analysis
+**Tools:** Power BI • Excel
+
+Interactive comparative dashboard analyzing sales, orders, products, locations, and key business performance metrics.
+
+### 🏪 D-Mart Sales Dashboard
 **Tools:** Power BI
 
-An interactive dashboard designed to analyze sales performance, KPIs, and business trends.
+Interactive dashboard analyzing sales performance, KPIs, product categories, and business trends.
 
-### Social Media Analysis
+### 📱 Social Media Analysis
 **Tools:** Power BI
 
-A data visualization project focused on analyzing social media performance, engagement, and trends.
+Dashboard analyzing social media performance, engagement metrics, trends, and audience insights.
 
-### Snake Gun Water Game
+### 🐍 Snake Gun Water Game
 **Tools:** Python
 
-A beginner-friendly Python console game demonstrating user input, dictionaries, conditional logic, and randomization.
+Beginner Python project demonstrating user input, conditional logic, dictionaries, and randomization.
 
 ---
 
@@ -72,8 +79,8 @@ A beginner-friendly Python console game demonstrating user input, dictionaries, 
 - Python for Data Analysis
 - Power BI & DAX
 - Statistical Analysis
-- Generative AI & AI Prompting
 - Business Analytics
+- Generative AI & AI Prompting
 
 ---
 
@@ -89,19 +96,20 @@ University of Mumbai
 
 ## 💼 Areas of Interest
 
-- Data Analytics
-- Business Analytics
-- Business Intelligence
-- Data Visualization
-- Statistical Analysis
-- Generative AI for Analytics
+📊 Data Analytics  
+📈 Business Analytics  
+💻 Business Intelligence  
+📉 Data Visualization  
+📐 Statistical Analysis  
+🤖 Generative AI for Analytics
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](http://www.linkedin.com/in/pratima-gupta013)
-- 🐙 [GitHub](https://github.com/pratima0012)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratima-gupta013)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratima0012)
 
 ---
 
