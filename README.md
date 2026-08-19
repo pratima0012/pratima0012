@@ -16,10 +16,9 @@ Aspiring Data Analyst passionate about turning raw data into meaningful insights
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistical%20Modeling-6C63FF?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
 **Data Analytics:** SQL • Excel • Power BI • Tableau • Python  
-
 **Data Analysis:** Data Cleaning • EDA • KPI Analysis • Business Analysis  
-
 **Python Libraries:** Pandas • NumPy • Matplotlib • Seaborn
 
 ---
