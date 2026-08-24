@@ -51,7 +51,7 @@ Advanced SQL • Python for Data Analysis • Power BI & DAX • Statistics • 
 
 ## 🎓 Education
 
-**M.Sc. Data Science** — University of Mumbai  
+**M.Sc. Data Science Pursuing** — University of Mumbai  
 **B.Sc. Information Technology** — University of Mumbai
 
 ---
