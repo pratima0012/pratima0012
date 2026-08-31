@@ -36,11 +36,6 @@ Sales performance analysis with interactive KPIs and business insights.
 ### 📱 Social Media Analysis
 **Power BI**  
 Dashboard analyzing engagement, performance, and social media trends.
-
-### 🎮 Snake Gun Water Game
-**Python**  
-Beginner Python project using logic, conditions, dictionaries, and randomization.
-
 ---
 
 ## 📚 Currently Learning
